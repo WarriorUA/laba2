@@ -1,0 +1,9 @@
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\bin\Debug\lab_zadan2.exe.config
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\bin\Debug\lab_zadan2.exe
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\bin\Debug\lab_zadan2.pdb
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\obj\Debug\lab_zadan2.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\obj\Debug\lab_zadan2.Form1.resources
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\obj\Debug\lab_zadan2.Properties.Resources.resources
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\obj\Debug\lab_zadan2.csproj.GenerateResource.Cache
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\obj\Debug\lab_zadan2.exe
+C:\Users\dinoz\Desktop\lab_zadan2\lab_zadan2\obj\Debug\lab_zadan2.pdb
